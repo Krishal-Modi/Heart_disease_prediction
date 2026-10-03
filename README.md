@@ -110,10 +110,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Krishal Modi
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## ⭐ Show your support
-
-Give a ⭐️ if this project helped you!
